@@ -28,7 +28,7 @@
 > pkg install git<br>
 > pkg install python3<br>
 > git clone https://github.com/Mr-d-0/cyber--d-clone.git<br>
-> cd Cyber-D<br>
-> python3 setup.py<br>
+> cd cyber--d-clone<br>
+> python3 cyber-d-clone.py<br>
   <h3>once you install Cyber-D tool then after you have to use<b><font color="red"> python3 cyberD.py instead of python3 setup.py</font></b></h3> 
 
