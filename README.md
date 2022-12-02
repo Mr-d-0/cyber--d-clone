@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm KDO from Cyber-D Team</h1>
-<h3 align="center">I am a programmer, Hindi Rapper and as well as Student. I am from Nepal.</h3>
+<h1 align="center">Hi 👋, I'm Mr.D from Cyber-D Team</h1>
+<h3 align="center">I am a programmer and as well as Student. I am from Nepal.</h3>
 
-- 🔭 I’m currently working on [Cyber-D](https://github.com/kdo2064/Cyber-D/)
+- 🔭 I’m currently working on [Cyber-D](https://mr-d-0.github.io/lfss.github.io/)
 
-- 📫 How to reach me **mshashank@gmail.com**
+- 📫 How to reach me **anandkeshari84@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,7 +27,7 @@
 > pkg upgrade<br>
 > pkg install git<br>
 > pkg install python3<br>
-> git clone https://github.com/kdo2064/Cyber-D.git<br>
+> git clone https://github.com/Mr-d-0/cyber--d-clone.git<br>
 > cd Cyber-D<br>
 > python3 setup.py<br>
   <h3>once you install Cyber-D tool then after you have to use<b><font color="red"> python3 cyberD.py instead of python3 setup.py</font></b></h3> 
